@@ -8,5 +8,3 @@ This model detects people in real-time webcam feed, predicts their **age** and *
 - Gender Detection (CNN Binary Classification)
 - OpenCV-based Real-Time Detection
 - CSV Logging
-
-## 📂 Folder Structure
